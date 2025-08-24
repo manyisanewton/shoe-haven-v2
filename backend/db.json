@@ -1,0 +1,606 @@
+{
+  "shoes": [
+    {
+      "id": 1,
+      "name": "Airforce Classic White",
+      "brand": "Airforce",
+      "description": "Timeless white Airforce with a clean finish.",
+      "price": 1,
+      "details": "Leather upper, cushioned sole, low-cut design",
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "image": "/static/images/1.jpeg",
+      "rating": 4.3,
+      "stock": 15
+    },
+    {
+      "id": 2,
+      "name": "Airforce Blackout",
+      "brand": "Airforce",
+      "description": "Sleek black Airforce for a bold look.",
+      "price": 2,
+      "details": "Synthetic leather, rubber sole, mid-cut",
+      "sizes": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "image": "/static/images/2.jpeg",
+      "rating": 4.1,
+      "stock": 12
+    },
+    {
+      "id": 3,
+      "name": "Airforce Retro Blue",
+      "brand": "Airforce",
+      "description": "Vibrant blue Airforce with retro vibes.",
+      "price": 130,
+      "details": "Suede upper, air-cushioned sole",
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "image": "/static/images/3.jpeg",
+      "rating": 4.5,
+      "stock": 8
+    },
+    {
+      "id": 4,
+      "name": "Airforce High-Top Grey",
+      "brand": "Airforce",
+      "description": "Stylish grey high-top Airforce.",
+      "price": 140,
+      "details": "Canvas upper, high-top design",
+      "sizes": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "image": "/static/images/4.jpeg",
+      "rating": 3.9,
+      "stock": 10
+    },
+    {
+      "id": 5,
+      "name": "Airforce Red Strike",
+      "brand": "Airforce",
+      "description": "Bold red Airforce for a standout look.",
+      "price": 135,
+      "details": "Leather upper, red accents",
+      "sizes": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "image": "/static/images/5.jpeg",
+      "rating": 4.2,
+      "stock": 7
+    },
+    {
+      "id": 6,
+      "name": "Airforce Green Camo",
+      "brand": "Airforce",
+      "description": "Camo-patterned Airforce for a rugged style.",
+      "price": 145,
+      "details": "Canvas upper, camo print",
+      "sizes": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "image": "/static/images/6.jpeg",
+      "rating": 4,
+      "stock": 9
+    },
+    {
+      "id": 7,
+      "name": "Airforce Gold Edition",
+      "brand": "Airforce",
+      "description": "Luxurious gold Airforce for special occasions.",
+      "price": 150,
+      "details": "Metallic finish, leather upper",
+      "sizes": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "image": "/static/images/7.jpeg",
+      "rating": 4.7,
+      "stock": 5
+    },
+    {
+      "id": 8,
+      "name": "Airforce Pastel Pink",
+      "brand": "Airforce",
+      "description": "Soft pink Airforce for a subtle touch.",
+      "price": 125,
+      "details": "Suede upper, pastel tones",
+      "sizes": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "image": "/static/images/8.jpeg",
+      "rating": 4.4,
+      "stock": 11
+    },
+    {
+      "id": 9,
+      "name": "Nike Air Max 90",
+      "brand": "Nike",
+      "description": "Classic Air Max with iconic cushioning.",
+      "price": 150,
+      "details": "Leather and mesh upper, air sole",
+      "sizes": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "image": "/static/images/9.jpeg",
+      "rating": 4.6,
+      "stock": 14
+    },
+    {
+      "id": 10,
+      "name": "Nike React Infinity",
+      "brand": "Nike",
+      "description": "Responsive running shoe with React foam.",
+      "price": 160,
+      "details": "Flyknit upper, React cushioning",
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "image": "/static/images/10.jpeg",
+      "rating": 4.8,
+      "stock": 6
+    },
+    {
+      "id": 11,
+      "name": "Nike Dunk Low",
+      "brand": "Nike",
+      "description": "Retro Dunk with a modern twist.",
+      "price": 110,
+      "details": "Leather upper, low-cut design",
+      "sizes": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "image": "/static/images/11.jpeg",
+      "rating": 4,
+      "stock": 13
+    },
+    {
+      "id": 12,
+      "name": "Nike Blazer Mid",
+      "brand": "Nike",
+      "description": "Vintage-inspired Blazer with a mid cut.",
+      "price": 130,
+      "details": "Suede upper, mid-cut design",
+      "sizes": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "image": "/static/images/12.jpeg",
+      "rating": 4.2,
+      "stock": 8
+    },
+    {
+      "id": 13,
+      "name": "Nike Free RN",
+      "brand": "Nike",
+      "description": "Lightweight running shoe with flexibility.",
+      "price": 100,
+      "details": "Mesh upper, flexible sole",
+      "sizes": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "image": "/static/images/13.jpeg",
+      "rating": 3.8,
+      "stock": 15
+    },
+    {
+      "id": 14,
+      "name": "Nike Pegasus 40",
+      "brand": "Nike",
+      "description": "Versatile running shoe with Zoom Air.",
+      "price": 140,
+      "details": "Breathable mesh, Zoom Air cushioning",
+      "sizes": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "image": "/static/images/14.jpeg",
+      "rating": 4.5,
+      "stock": 7
+    },
+    {
+      "id": 15,
+      "name": "Nike SB Dunk High",
+      "brand": "Nike",
+      "description": "High-top Dunk for skaters.",
+      "price": 120,
+      "details": "Leather upper, high-top design",
+      "sizes": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "image": "/static/images/15.jpeg",
+      "rating": 4.1,
+      "stock": 10
+    },
+    {
+      "id": 16,
+      "name": "Nike Air Jordan 1",
+      "brand": "Nike",
+      "description": "Iconic Jordan 1 with a classic look.",
+      "price": 170,
+      "details": "Leather upper, Air cushioning",
+      "sizes": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "image": "/static/images/16.jpeg",
+      "rating": 4.9,
+      "stock": 5
+    },
+    {
+      "id": 17,
+      "name": "Adidas Ultraboost 22",
+      "brand": "Adidas",
+      "description": "High-performance running shoe with Boost.",
+      "price": 180,
+      "details": "Primeknit upper, Boost midsole",
+      "sizes": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "image": "/static/images/17.jpeg",
+      "rating": 4.7,
+      "stock": 6
+    },
+    {
+      "id": 18,
+      "name": "Adidas Stan Smith",
+      "brand": "Adidas",
+      "description": "Classic white sneaker with a minimalist design.",
+      "price": 90,
+      "details": "Leather upper, rubber sole",
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "image": "/static/images/18.jpeg",
+      "rating": 4,
+      "stock": 20
+    },
+    {
+      "id": 19,
+      "name": "Adidas Superstar",
+      "brand": "Adidas",
+      "description": "Iconic Superstar with shell toe.",
+      "price": 100,
+      "details": "Leather upper, shell toe design",
+      "sizes": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "image": "/static/images/19.jpeg",
+      "rating": 4.3,
+      "stock": 12
+    },
+    {
+      "id": 20,
+      "name": "Adidas NMD R1",
+      "brand": "Adidas",
+      "description": "Modern sneaker with Boost cushioning.",
+      "price": 140,
+      "details": "Mesh upper, Boost midsole",
+      "sizes": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "image": "/static/images/20.jpeg",
+      "rating": 4.4,
+      "stock": 9
+    },
+    {
+      "id": 21,
+      "name": "Adidas Yeezy 350",
+      "brand": "Adidas",
+      "description": "Popular Yeezy with a sleek design.",
+      "price": 220,
+      "details": "Primeknit upper, Boost sole",
+      "sizes": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "image": "/static/images/21.jpeg",
+      "rating": 4.8,
+      "stock": 4
+    },
+    {
+      "id": 22,
+      "name": "Adidas Gazelle",
+      "brand": "Adidas",
+      "description": "Retro sneaker with a suede finish.",
+      "price": 110,
+      "details": "Suede upper, rubber sole",
+      "sizes": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "image": "/static/images/22.jpeg",
+      "rating": 4.1,
+      "stock": 11
+    },
+    {
+      "id": 23,
+      "name": "Adidas Forum Low",
+      "brand": "Adidas",
+      "description": "Low-cut Forum with a sporty look.",
+      "price": 120,
+      "details": "Leather upper, low-cut design",
+      "sizes": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "image": "/static/images/23.jpeg",
+      "rating": 4.2,
+      "stock": 8
+    },
+    {
+      "id": 24,
+      "name": "RunFast Pro",
+      "brand": "Sport Shoes",
+      "description": "Lightweight running shoe for speed.",
+      "price": 80,
+      "details": "Mesh upper, EVA foam sole",
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "image": "/static/images/24.jpeg",
+      "rating": 3.9,
+      "stock": 16
+    },
+    {
+      "id": 25,
+      "name": "TrailBlazer",
+      "brand": "Sport Shoes",
+      "description": "Durable trail running shoe.",
+      "price": 90,
+      "details": "Rubber sole, waterproof upper",
+      "sizes": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "image": "/static/images/25.jpeg",
+      "rating": 4,
+      "stock": 10
+    },
+    {
+      "id": 26,
+      "name": "SprintKing",
+      "brand": "Sport Shoes",
+      "description": "Sprint shoe with excellent grip.",
+      "price": 85,
+      "details": "Synthetic upper, spiked sole",
+      "sizes": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "image": "/static/images/26.jpeg",
+      "rating": 3.8,
+      "stock": 12
+    },
+    {
+      "id": 27,
+      "name": "CrossFit Elite",
+      "brand": "Sport Shoes",
+      "description": "Versatile shoe for cross-training.",
+      "price": 100,
+      "details": "Mesh upper, cushioned sole",
+      "sizes": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "image": "/static/images/27.jpeg",
+      "rating": 4.3,
+      "stock": 7
+    },
+    {
+      "id": 28,
+      "name": "GymMaster",
+      "brand": "Sport Shoes",
+      "description": "Supportive shoe for gym workouts.",
+      "price": 95,
+      "details": "Leather upper, non-slip sole",
+      "sizes": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "image": "/static/images/28.jpeg",
+      "rating": 4.1,
+      "stock": 9
+    },
+    {
+      "id": 29,
+      "name": "Marathon Pro",
+      "brand": "Sport Shoes",
+      "description": "Long-distance running shoe.",
+      "price": 110,
+      "details": "Breathable mesh, EVA cushioning",
+      "sizes": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "image": "/static/images/29.jpeg",
+      "rating": 4.4,
+      "stock": 6
+    },
+    {
+      "id": 30,
+      "name": "FlexRun",
+      "brand": "Sport Shoes",
+      "description": "Flexible shoe for dynamic runs.",
+      "price": 90,
+      "details": "Mesh upper, flexible sole",
+      "sizes": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "image": "/static/images/30.jpeg",
+      "rating": 4,
+      "stock": 8
+    }
+  ],
+  "cart": [],
+  "orders": [
+    {
+      "items": [
+        {
+          "shoe_id": 3,
+          "quantity": 1,
+          "size": 6
+        }
+      ],
+      "shipping": {
+        "name": "Newton",
+        "email": "manyisanewton26@gmail.com",
+        "address": "Ngong Road\nMoi Avenue",
+        "phone": "254799425417"
+      },
+      "total": 130,
+      "created_at": "2025-04-21T04:07:47.340Z",
+      "id": 1
+    },
+    {
+      "items": [
+        {
+          "shoe_id": 11,
+          "quantity": 1,
+          "size": 8
+        },
+        {
+          "shoe_id": 2,
+          "quantity": 2,
+          "size": 7
+        }
+      ],
+      "shipping": {
+        "name": "Newton",
+        "email": "manyisanewton26@gmail.com",
+        "address": "Ngong Road\nMoi Avenue",
+        "phone": "254799425417"
+      },
+      "total": 360,
+      "created_at": "2025-04-21T04:10:07.834Z",
+      "id": 2
+    },
+    {
+      "items": [
+        {
+          "shoe_id": 1,
+          "quantity": 1,
+          "size": 6
+        }
+      ],
+      "shipping": {
+        "name": "Newton",
+        "email": "manyisanewton26@gmail.com",
+        "address": "Ngong Road\nMoi Avenue",
+        "phone": "254799425417"
+      },
+      "total": 120,
+      "created_at": "2025-04-21T04:11:20.168Z",
+      "id": 3
+    },
+    {
+      "items": [
+        {
+          "shoe_id": 22,
+          "quantity": 6,
+          "size": 6
+        }
+      ],
+      "shipping": {
+        "name": "Newton",
+        "email": "manyisanewton26@gmail.com",
+        "address": "Ngong Road\nMoi Avenue",
+        "phone": "254799425417"
+      },
+      "total": 660,
+      "created_at": "2025-04-21T06:31:21.062Z",
+      "id": 4
+    }
+  ]
+}
