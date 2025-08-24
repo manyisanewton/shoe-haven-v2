@@ -24,7 +24,7 @@ class Config:
         # --- Add Google OAuth Configurations ---
     GOOGLE_CLIENT_ID = os.environ.get('GOOGLE_CLIENT_ID')
     GOOGLE_CLIENT_SECRET = os.environ.get('GOOGLE_CLIENT_SECRET')
-    FRONTEND_URL = os.environ.get('FRONTEND_URL', 'http://localhost:5173')
+    FRONTEND_URL = os.environ.get('FRONTEND_URL', 'https://ubora-shoes-store.onrender.com')
 
     PAYPAL_CLIENT_ID = os.environ.get('PAYPAL_CLIENT_ID')
     PAYPAL_CLIENT_SECRET = os.environ.get('PAYPAL_CLIENT_SECRET')
