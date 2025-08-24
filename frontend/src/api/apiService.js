@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 // The base URL of our Flask backend
-const API_URL = 'http://127.0.0.1:5000/api';
+const API_URL = 'https://shoe-store-api-lpwu.onrender.com/api';
 
 const apiService = axios.create({
   baseURL: API_URL,
